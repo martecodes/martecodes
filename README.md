@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jean Marte
-- 🌱 I’m currently learning backend 
 - 📫 How to reach me: jeanmarte93@gmail.com or twitter @martecodes
 
 <img align = 'left' width = '47%' src = 'https://github-readme-stats.vercel.app/api?username=martecodes&show_icons=true&theme=prussian'/>
