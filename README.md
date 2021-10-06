@@ -6,7 +6,7 @@
 
 🔭 I am currently open to new opportunities in engineering. If you are hiring or know someone who is don't hesitate to have them reach out!
 
-🗺️ I reside near Boston, MA USA. The food here cannot be beat 😋
+🗺️ I reside near Boston, MA USA.
 
 🌱 I’m currently improving my skills in web development. Check out my Portfolio to get an overview of my skillset.
 
