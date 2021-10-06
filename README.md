@@ -1,5 +1,14 @@
-- 👋 Hi, I’m Jean Marte
-- 📫 How to reach me: jeanmarte93@gmail.com or twitter @martecodes
+😄 I love meeting new people! Please reach out to me to collaborate or just chat about all things engineering.
+
+📫 Best way to reach me: message me on LinkedIn or twitter !
+
+🔭 I am currently open to new opportunities in engineering. If you are hiring or know someone who is don't hesitate to have them reach out!
+
+🗺️ I reside near Boston, MA USA. The food here cannot be beat 😋
+
+🌱 I’m currently improving my skills in web development. Check out my Portfolio to get an overview of my skillset.
+
+https://jeanmarte.netlify.app/#
 
 <img align = 'left' width = '47%' src = 'https://github-readme-stats.vercel.app/api?username=martecodes&show_icons=true&theme=prussian'/>
 
