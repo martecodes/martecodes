@@ -10,7 +10,6 @@
 
 🌱 I’m currently improving my skills in web development. Check out my Portfolio to get an overview of my skillset.
 
-https://jeanmarte.netlify.app/#
 
 <img align = 'left' width = '47%' src = 'https://github-readme-stats.vercel.app/api?username=martecodes&show_icons=true&theme=prussian'/>
 
