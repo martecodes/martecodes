@@ -7,9 +7,9 @@
 
 🔭 I am currently open to new opportunities in engineering. If you are hiring or know someone who is don't hesitate to have them reach out!
 
-🗺️ I reside near Boston, MA USA.
+🗺️ I reside Boston, MA USA.
 
-🌱 I’m currently improving my skills in web development. Check out my Portfolio to get an overview of my skillset.
+🌱 Check out my Portfolio to get an overview of my skillset.
 
 
 <img align = 'left' width = '47%' src = 'https://github-readme-stats.vercel.app/api?username=martecodes&show_icons=true&theme=prussian'/>
