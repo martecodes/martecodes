@@ -2,7 +2,7 @@
 
 😄 I love meeting new people! Please reach out to me to collaborate or just chat about all things engineering.
 
-📫 Best way to reach me: message me on LinkedIn or twitter !
+📫 Best way to reach me: message me on LinkedIn!
    https://www.linkedin.com/in/jean-marte
 
 🗺️ I reside Boston, MA USA.
