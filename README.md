@@ -7,12 +7,7 @@
 
 🗺️ I reside Boston, MA USA.
 
-🌱 Check out my Portfolio to get an overview of my skillset.
-
-
-<img align = 'left' width = '47%' src = 'https://github-readme-stats.vercel.app/api?username=martecodes&show_icons=true&theme=prussian'/>
-
-<img width = '47%' src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=martecodes&layout=compact'/>
+//<img width = '47%' src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=martecodes&layout=compact'/>
 
 
 Programming Languages:
