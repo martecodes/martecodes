@@ -5,8 +5,6 @@
 📫 Best way to reach me: message me on LinkedIn or twitter !
    https://www.linkedin.com/in/jean-marte
 
-🔭 I am currently open to new opportunities in engineering. If you are hiring or know someone who is don't hesitate to have them reach out!
-
 🗺️ I reside Boston, MA USA.
 
 🌱 Check out my Portfolio to get an overview of my skillset.
