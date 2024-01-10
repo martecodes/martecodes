@@ -7,8 +7,6 @@
 
 🗺️ I reside Boston, MA USA.
 
-<img width = '47%' src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=martecodes&layout=compact'/>
-
 
 Programming Languages:
 
